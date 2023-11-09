@@ -1,1 +1,3 @@
 Hello world!!!
+take input from the user 
+and values
